@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeeper" type="PLAIN_TEXT" />
       <mapping pattern="SysAccount.jdl" type="PLAIN_TEXT" />
       <mapping ext="gltf" type="PLAIN_TEXT" />
       <mapping ext="jdl" type="PLAIN_TEXT" />
