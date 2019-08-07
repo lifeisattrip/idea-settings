@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\src\app\routes\sys-resource\view\view.component.html'" />
+    <option name="defaultScopeName" value="File '...\src\app\routes\sys-resource\view\view.component.html'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\app\routes\sys-resource\view\view.component.html'" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
