@@ -1,31 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
-      <component name="GradleLocalSettings">
-        <option name="projectSyncType">
-          <map>
-            <entry key="D:/001开源/starter-jwt" value="PREVIEW" />
-            <entry key="D:/develop/workspace/android/X5WebDemo" value="PREVIEW" />
-            <entry key="D:/develop/workspace/jhipster/starter" value="PREVIEW" />
-          </map>
-        </option>
-      </component>
-      <component name="NodePackageJsonFileManager">
-        <packageJsonPaths />
-      </component>
-      <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>11</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
