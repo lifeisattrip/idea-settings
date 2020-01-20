@@ -10,5 +10,6 @@
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
