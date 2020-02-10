@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="SECONDARY_FONT_FAMILY" value="DialogInput" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
