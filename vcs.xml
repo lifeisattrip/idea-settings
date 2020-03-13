@@ -18,6 +18,10 @@
           <option name="url" value="https://47.104.214.231:8080/zyj/alco_factory.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.xw" />
+          <option name="userName" value="administrator" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\DEV\CODE\XANWAY\Gogs" />
