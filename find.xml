@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\starter-framework\src\main\java\com\xw\framework\security\UserRealm.java [starter-framework]'" />
-    <option name="defaultScopeName" value="File '...\starter-framework\src\main\java\com\xw\framework\security\UserRealm.java [starter-framework]'" />
-    <option name="SEARCH_SCOPE" value="File '...\starter-framework\src\main\java\com\xw\framework\security\UserRealm.java [starter-framework]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
