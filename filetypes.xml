@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="DataSourceTest" type="CLASS" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-    </extensionMap>
-  </component>
-</application>
