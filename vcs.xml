@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/RocketChat/Rocket.Chat.Electron.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="yongjie_470465752@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\DEV\CODE\XANWAY\Github" />
