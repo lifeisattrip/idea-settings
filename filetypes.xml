@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="xmind" type="Native" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="vue" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
