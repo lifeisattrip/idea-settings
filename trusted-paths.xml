@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:/DEV/CODE/XanWay/bigdata/web" />
+      </list>
+    </option>
+  </component>
+</application>
